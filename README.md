@@ -19,23 +19,26 @@
 ![Streamlit](https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Panel](https://img.shields.io/badge/PANEL-345A71?style=for-the-badge)
 ![NiceGUI](https://img.shields.io/badge/NICEGUI-4B8BBE?style=for-the-badge)
+![Dash](https://img.shields.io/badge/DASH-008DE4?style=for-the-badge&logo=plotly&logoColor=white)
+![Gradio](https://img.shields.io/badge/GRADIO-F97316?style=for-the-badge&logo=gradio&logoColor=white)
+
+### Data Visualization
+
 ![Plotly](https://img.shields.io/badge/PLOTLY-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Bokeh](https://img.shields.io/badge/BOKEH-EB3C3C?style=for-the-badge)
+![Altair](https://img.shields.io/badge/ALTAIR-1F77B4?style=for-the-badge)
+![Apache ECharts](https://img.shields.io/badge/APACHE_ECHARTS-AA344D?style=for-the-badge&logo=apacheecharts&logoColor=white)
+![Seaborn](https://img.shields.io/badge/SEABORN-4C72B0?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge)
+![Bokeh](https://img.shields.io/badge/BOKEH-EF4A60?style=for-the-badge)
+![HoloViews](https://img.shields.io/badge/HOLOVIEWS-3276B1?style=for-the-badge)
+![hvPlot](https://img.shields.io/badge/HVPLOT-22A7A0?style=for-the-badge)
+![PyDeck](https://img.shields.io/badge/PYDECK-ED553B?style=for-the-badge)
+![Folium](https://img.shields.io/badge/FOLIUM-77B829?style=for-the-badge)
 
-## Data & Automation
+### Web Frameworks & UI
 
-![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Polars](https://img.shields.io/badge/POLARS-CD792C?style=for-the-badge&logo=polars&logoColor=white)
-![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Excel](https://img.shields.io/badge/EXCEL-217346?style=for-the-badge)
-![API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
-![Pytest](https://img.shields.io/badge/PYTEST-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/FLASK-3BABC3?style=for-the-badge&logo=flask&logoColor=white)
+![Pydantic](https://img.shields.io/badge/PYDANTIC-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![Quasar](https://img.shields.io/badge/QUASAR-1976D2?style=for-the-badge&logo=quasar&logoColor=white)
 
-## Platforms & Tools
-
-![Windows](https://img.shields.io/badge/WINDOWS-0078D4?style=for-the-badge)
-![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
-![uv](https://img.shields.io/badge/UV-DE5FE9?style=for-the-badge&logo=uv&logoColor=white)
