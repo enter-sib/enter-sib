@@ -30,8 +30,6 @@
 ![Seaborn](https://img.shields.io/badge/SEABORN-4C72B0?style=for-the-badge)
 ![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge)
 ![Bokeh](https://img.shields.io/badge/BOKEH-EF4A60?style=for-the-badge)
-![HoloViews](https://img.shields.io/badge/HOLOVIEWS-3276B1?style=for-the-badge)
-![hvPlot](https://img.shields.io/badge/HVPLOT-22A7A0?style=for-the-badge)
 ![PyDeck](https://img.shields.io/badge/PYDECK-ED553B?style=for-the-badge)
 ![Folium](https://img.shields.io/badge/FOLIUM-77B829?style=for-the-badge)
 
